@@ -1,0 +1,17 @@
+html{
+    font-size: 20px;
+}
+h1{
+    font-size: 2rem;
+}
+
+.Rems{
+    font-size: 3rem;
+}
+.pix{
+    font-size: 80px;
+}
+.pix{
+    font-size: 12px;
+}
+@media
